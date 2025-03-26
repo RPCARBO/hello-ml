@@ -1,1 +1,1 @@
-# hello-ml
+# skin-cancer-classifier-starter
